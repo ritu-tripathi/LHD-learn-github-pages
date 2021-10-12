@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&family=Roboto:wght@100&display=swap');
+
+body {
+  display: flex;
+	/* font-size: 100px; */
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding-bottom: 2rem;
+  margin: 5%;
+  background-image: url("https://media.giphy.com/media/2tNvsKkc0qFdNhJmKk/giphy.gif");
+	font-family: 'Festive', cursive;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+}
